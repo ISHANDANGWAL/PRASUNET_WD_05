@@ -1,4 +1,4 @@
-const apiKey = '949d25ae8c7aa9f68823e5f2d46542ec';
+const apiKey = 'your_token_id';
 const form = document.querySelector('form');
 const input = document.querySelector('input[type="text"]');
 const weatherInfo = document.querySelector('.weather-info');
